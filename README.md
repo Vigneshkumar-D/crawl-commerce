@@ -22,7 +22,7 @@ Ensure you have the following installed on your system:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/crawl-commerce.git
+   git clone https://github.com/Vigneshkumar-D/crawl-commerce.git
    cd crawl-commerce
    ```
 
@@ -97,33 +97,6 @@ The `dynamicScraper.js` module uses Puppeteer to:
 - [Axios](https://axios-http.com/) - For HTTP requests.
 - [p-limit](https://www.npmjs.com/package/p-limit) - For managing concurrent requests.
 
-## Future Enhancements
-
-- **Distributed Crawling**: Scale across multiple machines for very large datasets.
-- **Database Integration**: Store crawled data in a database for persistent storage.
-- **GUI Dashboard**: Visualize crawling progress and results in real-time.
-- **Advanced Filtering**: Support for regex-based or AI-enhanced URL filtering.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with detailed explanations of your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or feedback, feel free to reach out:
-
-- Email: your-email@example.com
-- GitHub: [your-username](https://github.com/your-username)
-
----
 
 Thank you for using CrawlCommerce! Happy Crawling! 🚀
 
