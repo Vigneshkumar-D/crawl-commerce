@@ -1,0 +1,20 @@
+{
+  "name": "crawl-commerce",
+  "version": "1.0.0",
+  "main": "index.js",
+   "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "p-limit": "^6.2.0",
+    "puppeteer": "^23.11.1"
+  }
+}
